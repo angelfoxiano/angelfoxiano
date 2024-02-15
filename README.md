@@ -34,6 +34,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelfoxiano&show_icons=true&locale=en&layout=compact" alt="angelfoxiano" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelfoxiano&show_icons=true&locale=en" alt="angelfoxiano" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelfoxiano&" alt="angelfoxiano" /></p>
